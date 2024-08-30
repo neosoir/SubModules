@@ -1,0 +1,9 @@
+[submodule "Sub1"]
+	path = Sub1
+	url = git@github.com:neosoir/Sub1.git
+[submodule "Sub2"]
+	path = Sub2
+	url = git@github.com:neosoir/Sub2.git
+[submodule "Sub3"]
+	path = Sub3
+	url = git@github.com:neosoir/Sub3.git
